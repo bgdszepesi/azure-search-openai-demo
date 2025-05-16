@@ -21,6 +21,7 @@ logger = logging.getLogger("scripts")
 class AdlsGen2Setup:
     """
     Sets up a Data Lake Storage Gen 2 account with sample data and access control
+    Dan Test
     """
 
     def __init__(
